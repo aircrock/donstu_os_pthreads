@@ -1,0 +1,12 @@
+app
+*.o
+output.log
+trace.log
+
+counter_demo
+detached_demo
+cond_demo
+ring_demo
+producer_consumer.log
+equal_demo
+signal_demo
